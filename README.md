@@ -1,4 +1,4 @@
-fid MERN project 
+Fidmind MERN project 
 Fidmind is a full-stack web application built with the MERN stack (MongoDB, Express, React, Node.js). It allows users to manage books, novels, and other content. The project aims to provide a platform for book lovers to explore, manage, and organize their collections.
 
 ## Features
